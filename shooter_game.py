@@ -191,6 +191,7 @@ while Game:
             boss.kill()
             BF = 2
         
+        
     for e in event.get():
         if e.type == QUIT:
             Game = False 
